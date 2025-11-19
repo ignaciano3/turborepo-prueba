@@ -33,7 +33,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Cambie docs no deberia cambiar web
+            Cambie devuelta docs no deberia cambiar web
           </li>
           <li>
             Get started by editing <code>apps/docs/app/page.tsx</code>
